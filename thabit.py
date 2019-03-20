@@ -9,7 +9,7 @@
 '''
 
 from mpmath import *
-print("***** THABIT *****\n\n\n")
+print("                        ***** THABIT *****\n\n\n")
 while True:
     n=int(input("Enter the exponent : "))
     T=3*2**n-1
